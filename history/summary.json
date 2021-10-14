@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/fillthecar.com",
     "slug": "fill-the-car",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
-    "time": 488,
-    "timeDay": 587,
-    "timeWeek": 499,
-    "timeMonth": 488,
-    "timeYear": 488,
+    "uptimeYear": "99.68%",
+    "time": 490,
+    "timeDay": 563,
+    "timeWeek": 528,
+    "timeMonth": 485,
+    "timeYear": 490,
     "dailyMinutesDown": {
       "2021-09-25": 143
     }
