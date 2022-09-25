@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/fillthecar.com",
     "slug": "fill-the-car",
     "status": "down",
-    "uptime": "98.93%",
+    "uptime": "98.66%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "75.55%",
-    "uptimeMonth": "94.37%",
-    "uptimeYear": "98.89%",
+    "uptimeWeek": "61.31%",
+    "uptimeMonth": "91.10%",
+    "uptimeYear": "98.62%",
     "time": 461,
     "timeDay": 0,
-    "timeWeek": 430,
+    "timeWeek": 424,
     "timeMonth": 424,
-    "timeYear": 460,
+    "timeYear": 459,
     "dailyMinutesDown": {
-      "2022-09-24": 54,
+      "2022-09-25": 50,
+      "2022-09-24": 1440,
       "2022-09-23": 1440,
       "2022-09-22": 970,
       "2022-07-24": 260,
@@ -26,8 +27,7 @@
       "2022-03-25": 51,
       "2022-01-24": 96,
       "2021-11-25": 550,
-      "2021-11-24": 114,
-      "2021-09-25": 143
+      "2021-11-24": 114
     }
   }
 ]
