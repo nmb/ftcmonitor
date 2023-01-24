@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fillthecar.com.ico",
     "slug": "fill-the-car",
     "status": "up",
-    "uptime": "95.78%",
+    "uptime": "95.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.61%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "94.40%",
     "time": 454,
-    "timeDay": 357,
-    "timeWeek": 408,
-    "timeMonth": 412,
+    "timeDay": 519,
+    "timeWeek": 433,
+    "timeMonth": 415,
     "timeYear": 450,
     "dailyMinutesDown": {
       "2023-01-20": 141,
@@ -42,8 +42,7 @@
       "2022-05-26": 479,
       "2022-05-25": 1440,
       "2022-05-24": 221,
-      "2022-03-25": 51,
-      "2022-01-24": 96
+      "2022-03-25": 51
     }
   }
 ]
