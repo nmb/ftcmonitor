@@ -4,8 +4,8 @@
     "url": "https://fillthecar.com",
     "icon": "https://icons.duckduckgo.com/ip3/fillthecar.com.ico",
     "slug": "fill-the-car",
-    "status": "up",
-    "uptime": "96.21%",
+    "status": "down",
+    "uptime": "96.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 420,
     "timeYear": 439,
     "dailyMinutesDown": {
+      "2023-03-21": 0,
       "2023-01-20": 141,
       "2022-12-11": 33,
       "2022-11-21": 725,
